@@ -1,2 +1,3 @@
-# teoria_granic
- 
+Tutaj sukcesywnie będą pojawiać się zestawy zadań obejmujące zagadnienia przewidziane w ramach serii filmów poświęconej teorii granic. Lista zadań będzie stale aktualizowana i docelowo przerodzi się w zbiór zadań.
+Link do playlisty na youtube: https://www.youtube.com/playlist?list=PLjUjmsuTACB6nwOjaFJrnruuz5-RAI1Ko
+Na fanpage'u na FB można oddawać głosy na zadania, których rozwiązania mają być przedstawione na YT: https://www.facebook.com/czystadedukcja
